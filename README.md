@@ -48,8 +48,7 @@ omdbapi.key=YOUR_OMDB_API_KEY
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/watchlist-springboot.git
-cd watchlist-springboot
+git clone https://github.com/SanketChopade777/Watchlist-Spring-Boot-Thymeleaf-Web-App
 ```
 
 ### 2. Open in Spring Tool Suite (STS) or IntelliJ
@@ -93,4 +92,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Sanket Nivas Chopade**  
-Feel free to connect on [LinkedIn](https://www.linkedin.com/) or check out other projects on [GitHub](https://github.com/your-username)
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sanket-chopade-888546257/) or check out other projects on [GitHub](https://github.com/SanketChopade777)
