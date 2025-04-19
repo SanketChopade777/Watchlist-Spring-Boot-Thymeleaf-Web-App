@@ -77,11 +77,6 @@ To access the H2 database console:
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots here (form page, watchlist page, validation errors, etc.)_
-
----
 
 ## 📜 License
 
